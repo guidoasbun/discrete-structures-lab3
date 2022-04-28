@@ -22,7 +22,7 @@ int main()
     cout << "Expected: 32\n";
     cout << "Required Food: " << requiredFood(1, 100, 2) << endl;
     cout << "Expected: 200\n";
-    cout << "Required Food: " << requiredFood(0, 0, 0) << endl;
+    cout << "Required Food: " << requiredFood(21, 7, 34) << endl;
     cout << "Expected: 57344\n";
 
     cout << "--------------------------\n";

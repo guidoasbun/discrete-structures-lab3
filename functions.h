@@ -12,8 +12,8 @@
 // many years have passed.
 //
 // Do not use any loops or recursion.
-int earthTemp(int temp, int numYears);
 
+int earthTemp(int temp, int numYears);
 
 // Suppose an animal requires twice as much food
 // for every pound it gains. Write a function that takes the starting
@@ -22,8 +22,8 @@ int earthTemp(int temp, int numYears);
 // animal needs when it weighs the final weight.
 //
 // Do not use any loops or recursion.
-int requiredFood(int startWeight, int foodNeeded, int finalWeight);
 
+int requiredFood(int startWeight, int foodNeeded, int finalWeight);
 
 // A chicken farmer is expanding his coops.  Each year, each chicken
 // produces 10 chicks.  He keeps half of all the chicks born that year

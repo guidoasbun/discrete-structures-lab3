@@ -11,7 +11,7 @@ int main()
     cout << "Expected: 23\n";
     cout << "Earth Temp: " << earthTemp(40, 5) << endl;
     cout << "Expected: 55\n";
-    cout << "Earth Temp: " << earthTemp(0, 0) << endl;
+    cout << "Earth Temp: " << earthTemp(11, 34) << endl;
     cout << "Expected: 113\n";
 
     cout << "--------------------------\n";
@@ -33,7 +33,7 @@ int main()
     cout << "Expected: 113707\n";
     cout << "Number of Chickens: " << numChickens(1, 10) << endl;
     cout << "Expected: 42000323\n";
-    cout << "Number of Chickens: " << numChickens(0, 0) << endl;
+    cout << "Number of Chickens: " << numChickens(100, 2) << endl;
     cout << "Expected: 3307\n";
 
 
